@@ -7,5 +7,5 @@
 Hey, I left my `hopes_and_dreams` on this server... Can you help get it for me? I believe you can just grab it from the lobby. 
 
 ## Connection Info
-https://104.214.185.119/index.php
+http://104.214.185.119/index.php
 
