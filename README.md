@@ -1,2 +1,1 @@
-# umcs_preliminary
-# umcs_preliminary
+## UMCS CTF 2025 Preliminary Challenges
